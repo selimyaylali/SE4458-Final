@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/se4458-api.props" />
+</Project>
