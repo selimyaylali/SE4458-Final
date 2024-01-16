@@ -23,3 +23,7 @@ This project is an ASP.NET Core Web API and React application designed for manag
 - **ORM**: Entity Framework Core
 - **Excel Processing**: ClosedXML
 
+## Issues Encountered
+
+- Deployment issues
+- Api gateway issues
