@@ -12,6 +12,7 @@ This project is an ASP.NET Core Web API and React application designed for manag
 - Prescription management.
 - Secure API endpoints with user authentication.
 - Responsive React user interface.
+- Used mocky.io for TC Kimlik NO lookup.
 
 ## Technologies
 
